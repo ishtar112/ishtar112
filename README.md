@@ -8,4 +8,6 @@
 
 [PlayerStore, a Player-oriented DataStore library]() <sup>(soon)</sup>
 
+[aliased, a configurable alias-based autocomplete plugin]() <sup>(soon)</sup>
+
 [theme.luau, a simple way to download, apply, and share Script Editor themes](https://gist.github.com/ishtar112/24181dca368210f0425411c252e223ae)
