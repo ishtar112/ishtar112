@@ -4,6 +4,8 @@
 
 [zip, a serdes library]() <sup>(soon)</sup>
 
+[relay, yet another signal implementation]() <sup>(soon)</sup>
+
 # 🟥 ROBLOX
 
 [PlayerStore, a Player-oriented DataStore library]() <sup>(soon)</sup>
