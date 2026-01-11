@@ -8,7 +8,9 @@
 
 ### plugins
 
-[aliased, a configurable alias-based autocomplete plugin]() <sup>(planned)</sup>
+[AliasAutocomplete, a temporary stand-in for user-defined require-by-string aliases]() <sup>(pending public release)</sup>
+
+[ServiceAutocomplete, faster service importing]() <sup>(pending public release)</sup>
 
 ### libraries
 
